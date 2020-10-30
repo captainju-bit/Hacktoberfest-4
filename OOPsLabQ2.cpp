@@ -2,7 +2,7 @@
 using namespace std;
 class swapusingfriend   //creating a class swapusing friend
 {
-private:
+private:             // member are private
     int x, y, temp;
 public:
     void input() //void input function

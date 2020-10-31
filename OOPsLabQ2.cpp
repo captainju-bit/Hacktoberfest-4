@@ -7,7 +7,7 @@ private:             // member are private
 public:
     void input() //void input function
     {
-        cout << "Enter two numbers:" << endl;
+        cout << "Enter two numbers:" << endl; //displayed line on output
         cin >> x >> y;
     }
     friend void swap(swapusingfriend &t);             //friend function
